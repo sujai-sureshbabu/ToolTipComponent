@@ -1,4 +1,4 @@
-# ToolTip Custom Re-Usable Control .
+# ToolTip Custom Re-Usable Control created using Angular 7.
 
 # On Click Tool Tip is shown.
 
